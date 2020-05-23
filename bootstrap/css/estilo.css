@@ -1,0 +1,35 @@
+resp{
+    width: 100%;
+    background-color: rgb(170, 170, 170);
+    font-size: 24px;
+    border: 1px solid black;
+    float: left;
+    margin: 1%;
+}
+
+.titulos{
+    border: 1px solid black;
+    
+}
+
+.bloco{
+    text-align: center;
+    margin: 10px;
+}
+
+p{
+    clear: right;
+    margin: 5px;
+}
+
+.titulo_pag{
+    text-align: left;
+    background-color: gray;
+    border: 3px solid black;
+}
+
+
+.menu{
+    text-align: center;
+    margin: 20px;
+}
